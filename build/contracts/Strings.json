@@ -1,0 +1,31 @@
+{
+  "abiDefinition": [],
+  "className": "Strings",
+  "args": [],
+  "gas": "auto",
+  "silent": false,
+  "track": true,
+  "deploy": false,
+  "realRuntimeBytecode": "73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220e3c46f1166fa9dec5e",
+  "realArgs": [],
+  "code": "60566023600b82828239805160001a607314601657fe5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220e3c46f1166fa9dec5e34acb724c80e2a4af654004bf68277bd70adf4721fabee64736f6c63430006020033",
+  "runtimeBytecode": "73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220e3c46f1166fa9dec5e34acb724c80e2a4af654004bf68277bd70adf4721fabee64736f6c63430006020033",
+  "linkReferences": {},
+  "swarmHash": "34acb724c80e2a4af654004bf68277bd70adf4721fabee64736f6c6343000602",
+  "gasEstimates": {
+    "creation": {
+      "codeDepositCost": "17200",
+      "executionCost": "97",
+      "totalCost": "17297"
+    },
+    "internal": {
+      "toString(uint256)": "infinite"
+    }
+  },
+  "functionHashes": {},
+  "filename": "/Users/luis_acerv/defi/dark_wrizards/wizards_of_ethereum/.embark/node_modules/@openzeppelin/contracts/utils/Strings.sol",
+  "originalFilename": "contracts//Users/luis_acerv/defi/dark_wrizards/wizards_of_ethereum/.embark/node_modules/@openzeppelin/contracts/utils/Strings.sol",
+  "path": "/Users/luis_acerv/defi/dark_wrizards/wizards_of_ethereum/contracts/.embark/node_modules/@openzeppelin/contracts/utils/Strings.sol",
+  "type": "file",
+  "deploymentAccount": "0xB8D851486d1C953e31A44374ACa11151D49B8bb3"
+}

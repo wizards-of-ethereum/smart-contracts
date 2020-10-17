@@ -1,0 +1,37 @@
+{
+  "abiDefinition": [],
+  "className": "Address",
+  "args": [],
+  "gas": "auto",
+  "silent": false,
+  "track": true,
+  "deploy": false,
+  "realRuntimeBytecode": "73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220595c38f3c3229ef945",
+  "realArgs": [],
+  "code": "60566023600b82828239805160001a607314601657fe5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220595c38f3c3229ef94596e66e100fc75f9bd731215d2050e8645fc703a1fb8cb864736f6c63430006020033",
+  "runtimeBytecode": "73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220595c38f3c3229ef94596e66e100fc75f9bd731215d2050e8645fc703a1fb8cb864736f6c63430006020033",
+  "linkReferences": {},
+  "swarmHash": "96e66e100fc75f9bd731215d2050e8645fc703a1fb8cb864736f6c6343000602",
+  "gasEstimates": {
+    "creation": {
+      "codeDepositCost": "17200",
+      "executionCost": "97",
+      "totalCost": "17297"
+    },
+    "internal": {
+      "_functionCallWithValue(address,bytes memory,uint256,string memory)": "infinite",
+      "functionCall(address,bytes memory)": "infinite",
+      "functionCall(address,bytes memory,string memory)": "infinite",
+      "functionCallWithValue(address,bytes memory,uint256)": "infinite",
+      "functionCallWithValue(address,bytes memory,uint256,string memory)": "infinite",
+      "isContract(address)": "infinite",
+      "sendValue(address payable,uint256)": "infinite"
+    }
+  },
+  "functionHashes": {},
+  "filename": "/Users/luis_acerv/defi/dark_wrizards/wizards_of_ethereum/.embark/node_modules/@openzeppelin/contracts/utils/Address.sol",
+  "originalFilename": "contracts//Users/luis_acerv/defi/dark_wrizards/wizards_of_ethereum/.embark/node_modules/@openzeppelin/contracts/utils/Address.sol",
+  "path": "/Users/luis_acerv/defi/dark_wrizards/wizards_of_ethereum/contracts/.embark/node_modules/@openzeppelin/contracts/utils/Address.sol",
+  "type": "file",
+  "deploymentAccount": "0xB8D851486d1C953e31A44374ACa11151D49B8bb3"
+}
