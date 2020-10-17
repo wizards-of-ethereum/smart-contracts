@@ -76,9 +76,9 @@
     "renounceOwnership()": "715018a6",
     "transferOwnership(address)": "f2fde38b"
   },
-  "filename": "/Users/luis_acerv/defi/dark_wrizards/wizards_of_ethereum/.embark/node_modules/@openzeppelin/contracts/access/Ownable.sol",
-  "originalFilename": "contracts//Users/luis_acerv/defi/dark_wrizards/wizards_of_ethereum/.embark/node_modules/@openzeppelin/contracts/access/Ownable.sol",
-  "path": "/Users/luis_acerv/defi/dark_wrizards/wizards_of_ethereum/contracts/.embark/node_modules/@openzeppelin/contracts/access/Ownable.sol",
+  "filename": "/Users/luis_acerv/defi/wizards_of_ethereum/smart-contracts/.embark/node_modules/@openzeppelin/contracts/access/Ownable.sol",
+  "originalFilename": "contracts//Users/luis_acerv/defi/wizards_of_ethereum/smart-contracts/.embark/node_modules/@openzeppelin/contracts/access/Ownable.sol",
+  "path": "/Users/luis_acerv/defi/wizards_of_ethereum/smart-contracts/contracts/.embark/node_modules/@openzeppelin/contracts/access/Ownable.sol",
   "type": "file",
   "deploymentAccount": "0xB8D851486d1C953e31A44374ACa11151D49B8bb3"
 }

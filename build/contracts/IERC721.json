@@ -311,9 +311,9 @@
     "supportsInterface(bytes4)": "01ffc9a7",
     "transferFrom(address,address,uint256)": "23b872dd"
   },
-  "filename": "/Users/luis_acerv/defi/dark_wrizards/wizards_of_ethereum/.embark/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol",
-  "originalFilename": "contracts//Users/luis_acerv/defi/dark_wrizards/wizards_of_ethereum/.embark/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol",
-  "path": "/Users/luis_acerv/defi/dark_wrizards/wizards_of_ethereum/contracts/.embark/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol",
+  "filename": "/Users/luis_acerv/defi/wizards_of_ethereum/smart-contracts/.embark/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol",
+  "originalFilename": "contracts//Users/luis_acerv/defi/wizards_of_ethereum/smart-contracts/.embark/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol",
+  "path": "/Users/luis_acerv/defi/wizards_of_ethereum/smart-contracts/contracts/.embark/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol",
   "type": "file",
   "deploymentAccount": "0xB8D851486d1C953e31A44374ACa11151D49B8bb3"
 }

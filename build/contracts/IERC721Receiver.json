@@ -51,9 +51,9 @@
   "functionHashes": {
     "onERC721Received(address,address,uint256,bytes)": "150b7a02"
   },
-  "filename": "/Users/luis_acerv/defi/dark_wrizards/wizards_of_ethereum/.embark/node_modules/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
-  "originalFilename": "contracts//Users/luis_acerv/defi/dark_wrizards/wizards_of_ethereum/.embark/node_modules/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
-  "path": "/Users/luis_acerv/defi/dark_wrizards/wizards_of_ethereum/contracts/.embark/node_modules/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
+  "filename": "/Users/luis_acerv/defi/wizards_of_ethereum/smart-contracts/.embark/node_modules/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
+  "originalFilename": "contracts//Users/luis_acerv/defi/wizards_of_ethereum/smart-contracts/.embark/node_modules/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
+  "path": "/Users/luis_acerv/defi/wizards_of_ethereum/smart-contracts/contracts/.embark/node_modules/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
   "type": "file",
   "deploymentAccount": "0xB8D851486d1C953e31A44374ACa11151D49B8bb3"
 }
