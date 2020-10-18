@@ -5,13 +5,12 @@ import "./Expansion.sol";
 import "./WOET.sol";
 
 contract Wizard {
-    address woetToken;
+    WOET public woet;
     mapping(address => address) expansions;
     address[] existingExpansions;
 
     constructor() public {
-        WOET token = new WOET();
-        woetToken = address(token);
+        woet = new WOET();
     }
 
     function createExpansion(string memory _expansion, string memory _symbol)
