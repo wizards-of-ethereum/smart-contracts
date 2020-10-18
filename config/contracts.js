@@ -29,7 +29,7 @@ module.exports = {
     // filteredFields: [],
     strategy: 'explicit',
     deploy: {
-      Genesis: {
+      Wizard: {
         fromIndex: 0,
         args: []
       }

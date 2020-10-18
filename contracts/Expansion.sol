@@ -4,7 +4,7 @@ pragma solidity ^0.6.2;
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
-import "./Genesis.sol";
+import "./Wizard.sol";
 
 contract Expansion is ERC721, Ownable {
     using Counters for Counters.Counter;
